@@ -2,7 +2,7 @@
   <a href="https://github.com/Luizfelipess">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Luizfelipess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizfelipess&layout=compact&langs_count=16&theme=gotham&include"/>
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Luizfelipess=anuraghazra&show_icons=true&theme=radical)
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
